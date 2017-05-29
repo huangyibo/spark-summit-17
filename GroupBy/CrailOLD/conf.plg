@@ -1,4 +1,4 @@
-set term svg size 1000,400 font 'Verdana,20'
+set term svg size 2000,400 font 'Verdana,20'
 #set term svg size 1000,400 font 'Verdana,20'
 
 set style line 1 lc rgb "#e41a1c" lw 4
